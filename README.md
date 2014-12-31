@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-just another repo
+Hi Humans,
+
+I like warm hugs and Node.js and coffeescript and tacos. 
